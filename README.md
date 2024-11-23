@@ -13,7 +13,7 @@ AI/ML Tools: Familiar with TensorFlow, PyTorch.<br>
 Web Development: Experience with HTML, CSS, JavaScript, and frameworks like .NET
 
 # Current Goals
-Academic Growth: Dive deeper into the foundations of CS and AIML while staying updated with industry trends.<br<
+Academic Growth: Dive deeper into the foundations of CS and AIML while staying updated with industry trends.<br>
 Projects: Work on meaningful projects.<br>
 Networking: Connect with like-minded individuals, mentors, and peers in the tech community.
 
