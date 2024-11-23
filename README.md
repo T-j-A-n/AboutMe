@@ -21,5 +21,5 @@ Networking: Connect with like-minded individuals, mentors, and peers in the tech
 I’m always open to collaboration, learning, and sharing ideas! Feel free to reach out:<br>
 
 Email: iamtejasanand@gmail.com<br>
-LinkedIn: <a href = "www.linkedin.com/in/tejas-anand-b47585339">MyLinkedin</a><br>
+LinkedIn: www.linkedin.com/in/tejas-anand-b47585339<br>
 Let’s innovate together! 🚀
