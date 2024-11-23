@@ -8,7 +8,7 @@ Data Science & Analytics: Working with data to extract meaningful insights is so
 Open Source: I believe in the power of collaboration and love contributing to open-source projects whenever possible.
 
 # Skills
-Programming: Proficient in Python, Java, and C++.<br>
+Programming: Proficient in Python, C, moderately proficient in Java, and C++.<br>
 AI/ML Tools: Familiar with TensorFlow, PyTorch.<br>
 Web Development: Experience with HTML, CSS, JavaScript, and frameworks like .NET
 
