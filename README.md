@@ -8,20 +8,18 @@ Data Science & Analytics: Working with data to extract meaningful insights is so
 Open Source: I believe in the power of collaboration and love contributing to open-source projects whenever possible.
 
 # Skills
-Programming: Proficient in Python, Java, and C++.
-AI/ML Tools: Familiar with TensorFlow, PyTorch..
-Web Development: Experience with HTML, CSS, JavaScript, and frameworks like React.
+Programming: Proficient in Python, Java, and C++.<br>
+AI/ML Tools: Familiar with TensorFlow, PyTorch.<br>
+Web Development: Experience with HTML, CSS, JavaScript, and frameworks like .NET
 
 # Current Goals
 Academic Growth: Dive deeper into the foundations of CS and AIML while staying updated with industry trends.
-Projects: Work on meaningful projects that apply AI/ML concepts to real-world problems.
+Projects: Work on meaningful projects.
 Networking: Connect with like-minded individuals, mentors, and peers in the tech community.
-Internships: Gain hands-on experience by interning with companies to bridge the gap between theory and practice.
 
 # Contact
 I’m always open to collaboration, learning, and sharing ideas! Feel free to reach out:<br>
 
-Email: [Your Email Address]<br>
-GitHub: [Your GitHub Profile]<br>
-LinkedIn: [Your LinkedIn Profile]<br>
+Email: iamtejasanand@gmail.com<br>
+LinkedIn: <a href = "www.linkedin.com/in/tejas-anand-b47585339">MyLinkedin</a><br>
 Let’s innovate together! 🚀
