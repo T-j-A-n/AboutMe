@@ -1,5 +1,5 @@
 # AboutMe
-Hi there! 👋 I'm a 19-year-old undergraduate student currently pursuing Computer Science with Artificial Intelligence and Machine Learning (AIML) at RV College of Engineering, Bangalore. I'm passionate about solving complex problems, building innovative solutions, and exploring the endless possibilities in the field of technology.
+Hi there! 👋 I'm a 19-year-old undergraduate student currently pursuing CS Artificial Intelligence and Machine Learning (AIML) at RV College of Engineering, Bangalore. I'm passionate about solving complex problems, building innovative solutions, and exploring the endless possibilities in the field of technology.
 
 # Interests
 Artificial Intelligence & Machine Learning: I’m particularly fascinated by how machines can emulate human intelligence and the potential it holds for transforming industries.
